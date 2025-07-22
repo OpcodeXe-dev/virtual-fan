@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Virtual Fan</title>
+  <link rel="icon" href="assets/electric_fan.ico" />
+  <link rel="stylesheet" href="assets/css/styles.css" />
+</head>
+<body>
+  <div class="main">
+    <img id="fan" src="assets/fan_blade.png" alt="Fan Blade" />
+    <div class="controls">
+      <button class="on" onclick="fanOn()">ON</button>
+      <button class="off" onclick="fanOff()">OFF</button>
+      <button onclick="setSpeed(1)">1</button>
+      <button onclick="setSpeed(2)">2</button>
+      <button onclick="setSpeed(3)">3</button>
+    </div>
+  </div>
+  <script src="assets/js/scripts.js"></script>
+</body>
+</html>
