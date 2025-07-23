@@ -2,6 +2,9 @@
 
 Hey there! Thanks for stopping by to check out my little project — the **Virtual Fan**. It’s a simple, fun web app that lets you turn on/off a fan and control its speed. Kinda like having a mini fan right on your screen, but without the breeze (sorry!).
 
+Oh and btw — if you just wanna try it out real quick, here’s the live demo: [https://opcodexe-dev.github.io/virtual-fan](https://opcodexe-dev.github.io/virtual-fan)  
+(no need to download anything, just click and play)
+
 ---
 
 ## What is this thing?
